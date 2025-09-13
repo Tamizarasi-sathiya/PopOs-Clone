@@ -18,17 +18,18 @@ This repository replicates the look, feel, and layout of the original site using
 
 ## 📂 Project Structure
 
+```bash
 PopOs-Clone/
-├── public/ 
+├── public/
 ├── src/
-│ ├── components/ 
-│ ├── pages/ 
-│ ├── hooks/ 
-│ ├── styles/ 
-│ └── index.tsx 
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── styles/
+│   └── index.tsx
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
-
+```
 
 All trademarks, brand names, and official assets belong to System76 / Pop!_OS.
