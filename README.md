@@ -1,5 +1,7 @@
 # PopOs-Clone
 
+<img width="1874" height="932" alt="image" src="https://github.com/user-attachments/assets/69a9961b-5511-4628-b389-e0dfed01b539" />
+
 A **frontend-only clone** of the Pop!_OS website.  
 This repository replicates the look, feel, and layout of the original site using modern frontend tools, ensuring responsiveness and visual fidelity.
 
