@@ -1,5 +1,34 @@
-# PopOs_Clone
+# PopOs-Clone
 
-A frontend-only clone of the [Pop!_OS Website](https://system76.com/pop/).  
+A **frontend-only clone** of the Pop!_OS website.  
+This repository replicates the look, feel, and layout of the original site using modern frontend tools, ensuring responsiveness and visual fidelity.
 
-Built as part # Pop!_OS Website Clone  of a 2nd year technical web development task to demonstrate HTML, CSS, and JavaScript skills.  
+---
+
+## 🧰 Tech Stack
+
+| Component      | Technology                  |
+|----------------|-----------------------------|
+| Framework      | React + TypeScript          |
+| Styling        | Tailwind CSS                |
+| Fonts & Assets | Matching fonts/images/icons |
+| Deployment     | Vercel                      |
+
+---
+
+## 📂 Project Structure
+
+PopOs-Clone/
+├── public/ 
+├── src/
+│ ├── components/ 
+│ ├── pages/ 
+│ ├── hooks/ 
+│ ├── styles/ 
+│ └── index.tsx 
+├── tailwind.config.ts
+├── tsconfig.json
+└── README.md
+
+
+All trademarks, brand names, and official assets belong to System76 / Pop!_OS.
